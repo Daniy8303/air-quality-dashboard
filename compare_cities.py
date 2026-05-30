@@ -11,7 +11,7 @@ warnings.filterwarnings("ignore")
 # ── CONFIG ────────────────────────────────────────────────────────────────────
 CITIES    = ["New York", "Los Angeles", "Chicago"]   # change any of these
 DAYS_BACK = 30
-API_KEY   = "fbc4b17d6a5292f91662ee197ff2c27df2fd79d59071069faa3baeaeaef34e99"
+API_KEY   = "your_api_key"
 HEADERS   = {"X-API-Key": API_KEY, "Accept": "application/json"}
 # ─────────────────────────────────────────────────────────────────────────────
 

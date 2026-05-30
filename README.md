@@ -30,11 +30,11 @@ Requirements
 Python 3.8+
 A free OpenAQ API key → openaq.org/developers
 
-Install dependencies
+Install dependencies:
 pip3 install requests matplotlib pandas
 
-Configure
-Open air_quality.py and set your city and API key at the top:
+Configure:
+Open air_quality.py and set your city and API key at the top
 
 pythonCITY    = "New York"   # see supported cities below
 
